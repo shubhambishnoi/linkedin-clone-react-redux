@@ -26,6 +26,7 @@ function Header() {
                 <HeaderLink Icon={BusinessCenterIcon} title="Jobs" />
                 <HeaderLink Icon={ChatIcon} title="Messaging"/>
                 <HeaderLink Icon={NotificationsIcon} title="Notifications" />
+                <HeaderLink avatar="https://icon-library.com/images/coder-icon/coder-icon-26.jpg" title="me"/>
                 
             </div>
         </div>
