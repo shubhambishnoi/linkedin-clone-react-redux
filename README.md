@@ -1,6 +1,6 @@
 Building LinkedIn Clone using React and Redux with firebase.
 
-Completed header and left-sidebar.
+Completed header and left-sidebar components.
 
 Will be working on feed section next....
 
