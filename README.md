@@ -1,4 +1,4 @@
-Building LinkedIn Clone using React and Redux with firebase.
+Building LinkedIn Clone using React, Redux, Material-ui and integrating with firebase.
 
 Completed header and left-sidebar components.
 
